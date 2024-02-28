@@ -61,7 +61,17 @@ Gratidão pelas contribuições para tornar o projeto "Planejar para Realizar" m
 
 
 ## Licença
-Informações sobre a licença do seu projeto.
+
+LICENSE
+
+Informações sobre a licença do projeto.
+
 
 ## Informações
-Informações relevantes ao projeto que estão desenvolvendo.
+
+
+O projeto está em fase de desenvolvimento e está aberto para contribuições da comunidade.
+
+Para implementação das funcionalidades e tecnologias que serão relevantes para o projeto.
+
+
