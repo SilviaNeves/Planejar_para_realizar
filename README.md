@@ -3,9 +3,7 @@
 
 ## Descrição
 
-O projeto "Planejar para Realizar" visa ajudar os usuários a montar um sistema de gerenciamento de tarefas diárias,
-
-organizando suas atividades e definindo metas, aumentando a produtividade e gestão de tempo  para alcançar seus objetivos de forma mais eficaz.
+O projeto "Planejar para Realizar" visa ajudar os usuários a montar um sistema de gerenciamento de tarefas diárias, organizando suas atividades e definindo metas, aumentando a produtividade e gestão de tempo  para alcançar seus objetivos de forma mais eficaz.
 
 
 ## Instruções sobre como instalar e configurar o projeto
@@ -30,9 +28,11 @@ Atualizar o repositório local com as alterações do remoto com o git pull;
 
 Principais recursos:
 
-Gestão de Tarefas : Os usuários, criar atualizar e visualizar tarefas de forma rápida e fácil.
+Gestão de Tarefas :
+Propiciar aos usuários, criar, atualizar e visualizar tarefas de forma rápida e fácil.
 
-Definição de Metas : Permite aos usuários claras estabelecer metas mensuráveis para seus projetos e acompanhar seu progresso.
+Definição de Metas : Permite aos usuários 
+estabelecer metas mensuráveis para seus projetos e acompanhar seu progresso.
 
 Calendário : Integração com um calendário para visualizaçãos, eventos e compromissos.
 
@@ -62,7 +62,7 @@ Gratidão pelas contribuições para tornar o projeto "Planejar para Realizar" m
 
 ## Licença
 
-LICENSE
+ [LICENSE](LICENSE)
 
 Informações sobre a licença do projeto.
 
